@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-11",
+  "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "collector_revision": "eead7e8dfb87aaae96cfbb8edbececfe34e3da1e",
+  "source_sha256": "564154a15ac28c0f7f72f304ae26b74c29cfca9f3eafe8d59595776769d621ca",
+  "original_bytes": 601259,
+  "real_candidates": 1,
+  "offline_valid": true,
+  "replay_verified": true,
+  "unit_tests_passed": 8,
+  "model_calls": 0,
+  "research_received": false,
+  "adopted": false,
+  "scheduled": false,
+  "limitations": [
+    "Research reception/adoption/website separate; unresolved identity remains a lead"
+  ]
+}
